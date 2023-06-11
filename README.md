@@ -1,2 +1,2 @@
-# Weather_PSIT
-Developed weather app using HTML CSS and JavaScript.
+# Weather_Info
+Developed weather app using JavaScript, HTML and CSS.
